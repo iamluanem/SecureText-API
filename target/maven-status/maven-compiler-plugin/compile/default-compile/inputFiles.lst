@@ -1,0 +1,13 @@
+/Users/luanemdasilva/Desktop/SecureText-API/src/main/java/com/example/entity/TextData.java
+/Users/luanemdasilva/Desktop/SecureText-API/src/main/java/com/example/exception/GlobalExceptionHandler.java
+/Users/luanemdasilva/Desktop/SecureText-API/src/main/java/com/example/exception/TextManagementException.java
+/Users/luanemdasilva/Desktop/SecureText-API/src/main/java/com/example/repository/TextDataRepository.java
+/Users/luanemdasilva/Desktop/SecureText-API/src/main/java/com/example/service/TextManagementService.java
+/Users/luanemdasilva/Desktop/SecureText-API/src/main/java/com/example/dto/DecryptionResponse.java
+/Users/luanemdasilva/Desktop/SecureText-API/src/main/java/com/example/TextManagementApplication.java
+/Users/luanemdasilva/Desktop/SecureText-API/src/main/java/com/example/dto/TextRequest.java
+/Users/luanemdasilva/Desktop/SecureText-API/src/main/java/com/example/service/EncryptionService.java
+/Users/luanemdasilva/Desktop/SecureText-API/src/main/java/com/example/dto/EncryptionResponse.java
+/Users/luanemdasilva/Desktop/SecureText-API/src/main/java/com/example/config/SecurityConfig.java
+/Users/luanemdasilva/Desktop/SecureText-API/src/main/java/com/example/controller/TextManagementController.java
+/Users/luanemdasilva/Desktop/SecureText-API/src/main/java/com/example/dto/AssertTrue.java
