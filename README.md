@@ -47,11 +47,11 @@ The H2 console is available at:
 - Username: `sa`
 - Password: ` ` (empty)
 
-![H2 Console](./src/assets/Captura%20de%20Tela%202024-12-24%20a%C3%B1s%2012.21.17.png)
+![H2 Console](./src/assets/Captura%20de%20Tela%202024-12-24%20às%2012.21.17.png)
 
-![H2 Console](./src/assets/Captura%20de%20Tela%202024-12-24%20a%C3%B1s%2012.22.21.png)
+![H2 Console](./src/assets/Captura%20de%20Tela%202024-12-24%20às%2012.22.21.png)
 
-![H2 Console](./src/assets/Captura%20de%20Tela%202024-12-24%20a%C3%B1s%2012.22.46.png)
+![H2 Console](./src/assets/Captura%20de%20Tela%202024-12-24%20às%2012.22.46.png)
 
 ## API Endpoints
 
@@ -81,7 +81,7 @@ Response:
 }
 ```
 
-![Store Text](./src/assets/Captura%20de%20Tela%202024-12-24%20a%C3%B1s%2012.11.31.png)
+![Store Text](./src/assets/Captura%20de%20Tela%202024-12-24%20às%2012.11.31.png)
 
 
 ### 2. Retrieve Text
@@ -99,7 +99,7 @@ Response:
 }
 ```
 
-![Retrieve Text](./src/assets/Captura%20de%20Tela%202024-12-24%20a%C3%B1s%2012.12.03.png)
+![Retrieve Text](./src/assets/Captura%20de%20Tela%202024-12-24%20às%2012.12.03.png)
 
 
 ## Usage Example
